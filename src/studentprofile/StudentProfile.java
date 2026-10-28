@@ -16,6 +16,8 @@ public class StudentProfile {
         System.out.println("Name: Ummu Hanie' Bt Mohd sabri");
         System.out.println("Student ID: S86903");
         System.out.println("Programme:Bachelor of Computer Science");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");     
         
         
         
